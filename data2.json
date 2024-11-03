@@ -1,0 +1,741 @@
+City(name: "Holy Mary of Tinos",
+             summary: "",
+             imageName: "10",
+             attractions: [
+                Attraction(
+                    name: "How the Miraculous Icon was discovered Παναγία Μεγαλόχαρη",
+                    summary: "Holy Mary herself gave visions to Tinian citizens in order to discover Her Icon.",
+                    longDescription: """
+                    The discovery Icon was considered a divine omen for the Turkish occupation. Since the discovery, many miracles as well as work happened and the first one was the visions the tinian citizens had about the Icon before it was found. Two years before its discovery Virgin Mary gave the first manifestation of her purposes. It was 1821 when tinian Michalis Polyzois was led by her to the field of Antonios Doxaras to dig for and find Her Icon. Polyzois and some friends started digging and the only thing they found was a part of roman fortress. Dissapointed as they were they left the place.
+                    This time it was Ioannis Giuzes' turn from Mountado village, owner of the field next to Doxaras, field to claim that hundreds of faithful from all over the world were coming to pay their respects to that part of land. Third time's the charm was Pelagia's vision. From her early age Pelagia was faithful, fasting and praying consistently. It was July 9, 1822 when she was granted the supreme blessing seeing Holy Mary in her monastic cell, Who indicated her to talk to people and start excavations. The first attempt was September 1822, when the excavators discovered the remnants of two temples: the ancient Church of Virgin Mary and another one dedicated to Saint John the Baptist. However no trace of Icon was found and the people abandoned the endeavor. After the excavations were stopped, a cholera epidemic struck Tinos and people believed that because of the timing of it, was a sign from God that it was a punishment from Him, so they continued the excavations. On January 30, 1823 a volunteer worker's pickaxe struck the Miraculous Icon splitting it in two with the Archangel on the one side, holding in his hand the symbolic flower of purity and Virgin Mary on the other. The Icon was burnt but faces appeared to be unharmed! The Icon was Given to Bishop Gabriel with piety. Bishop Gabriel was the person who Virgin Mary told Pelagia to search for in order to discover Her Icon.
+                    """,
+                    imageName: "22",
+                    latLong: "37.542336, 25.162720",
+                    links: AttractionLinks(
+                        tripAdvisor: "https://www.tripadvisor.com/Attraction_Review-g503711-d243153-Reviews-Panayia_Evanyelistria_Cathedral_and_Museums-Tinos_Cyclades_South_Aegean.html" // Replace with actual URL
+                    )
+                )
+,
+                
+                Attraction(
+                    name: "Construction of The Church Παναγία Μεγαλόχαρη",
+                    summary: "Immediately after the Discovery, the building of the Church was decided.",
+                    longDescription: """
+                    The construction required great quantities of marble, which were transported from the island Delos. On the ground floor of the Temple there is the Church of Discovery, while on the first floor we can see the Church of Annunciation. The Church of Discovery consists of three vaulted parallel arcades. The arcades communicate with each other via arched openings in the intermediary walls. In the First arcade, the Holy Water (which never dries out) is kept, while the two other arcades are mainly used for baptisms.
+                    """,
+                    imageName: "20",
+                    latLong: "37.542336, 25.162720",
+                    links: AttractionLinks(
+                        tripAdvisor: "https://www.tripadvisor.com/Attraction_Review-g503711-d243153-Reviews-Panayia_Evanyelistria_Cathedral_and_Museums-Tinos_Cyclades_South_Aegean.html" // Replace with actual URL
+                    )
+                )
+,
+                
+                Attraction(
+                    name: "The Bell tower of the Church Παναγία Μεγαλόχαρη",
+                    summary: "The Bell Tower of the Church stands dominant, imposing and protective.",
+                    longDescription: """
+                    It was constructed by Ioannis Fillipotis, from the village of Pyrgos of Tinos, while its design was undertaken by the architect and academic Anastasios Orlandos.
+                    """,
+                    imageName: "23",
+                    latLong: "37.542336, 25.162720",
+                    links: AttractionLinks(
+                        tripAdvisor: "https://www.tripadvisor.com/Attraction_Review-g503711-d243153-Reviews-Panayia_Evanyelistria_Cathedral_and_Museums-Tinos_Cyclades_South_Aegean.html" // Replace with actual URL
+                    )
+                )
+,
+                Attraction(
+                    name: "Museum Complex of the Church Παναγία Μεγαλόχαρη",
+                    summary: "The founders of the Church had collected archaeological treasures back from the early days of existence of the Complex.",
+                    longDescription: """
+                    There are five museums:
+                    1) Museum of Icons and Relics: It is located on the ground floor since 1971. It includes old icons collected from parish churches of Tinos according to the traditional way of Tinian drawing. It also includes the first replica of Her Grace as well.
+                    2) Museum of Replicas: Since 1996, it includes sacred objects mainly used for the Divine Liturgy, as well as a library.
+                    3) Art Gallery: It includes many works of art by Greek and foreign painters.
+                    4) Museum of Tinian Artists: It contains mostly Tinian sculptors.
+                    5) Antonios Sohos Museum: It includes 16 sculptures in wood, plaster, clay, and marble.
+                    """,
+                    imageName: "23",
+                    latLong: "37.542336, 25.162720",
+                    links: AttractionLinks(
+                        tripAdvisor: "https://www.tripadvisor.com/Attraction_Review-g503711-d243153-Reviews-Panayia_Evanyelistria_Cathedral_and_Museums-Tinos_Cyclades_South_Aegean.html" // Replace with actual URL
+                    )
+                )
+            ]
+        ),
+
+                City(
+                    name: "Beaches",
+                    summary: "There are no words for Tinos' beaches, see for yourself!!.",
+                    imageName: "37",
+                    attractions: [
+                        Attraction(
+                            name: "Agios Fokas",
+                            summary: "A beautiful beach known for its clear waters and relaxing atmosphere.",
+                            longDescription: """
+                            Agios Fokas is one of the most popular beaches on Tinos, offering a serene environment and stunning views. It’s the perfect place to unwind, swim, and enjoy the sun.
+                            """,
+                            imageName: "37",
+                            latLong: "37.530080, 25.180650",
+                            links: AttractionLinks(
+                                tripAdvisor: "https://www.tripadvisor.com/Tourism-g8445869-Agios_Fokas_Tinos_Cyclades_South_Aegean-Vacations.html" // Replace with actual URL
+                            )
+                        )
+,
+                        
+                Attraction(
+                    name: "Kalopsia Restaurant",
+                    summary: "A cozy eatery offering a taste of traditional Tinian cuisine.",
+                    longDescription: """
+                    Kalopsia Restaurant is renowned for its delicious local dishes and warm atmosphere. It's a perfect spot to enjoy a meal after a day of exploring Tinos. The menu features fresh ingredients sourced from local farms and the sea, ensuring a delightful dining experience.
+                    """,
+                    imageName: "kalamia",
+                    latLong: "37.540887, 25.153438",
+                    links: AttractionLinks(
+                        tripAdvisor: "https://www.tripadvisor.com/Restaurant_Review-g2698784-d23592915-Reviews-Kalopsia_Restaurant-Tinos_Town_Tinos_Cyclades_South_Aegean.html" // Replace with actual URL
+                    )
+                )
+,
+                        
+                       
+                        
+                        
+                        
+                Attraction(
+                    name: "Rohari Tinos",
+                    summary: "The best experience for authentic Tinian flavors.",
+                    longDescription: """
+                    Rohari Tinos offers an exquisite dining experience with a focus on traditional Tinian cuisine. Guests can enjoy locally sourced ingredients and a menu that celebrates the island's rich culinary heritage, making it a must-visit destination for food lovers.
+                    """,
+                    imageName: "Rohari1",
+                    latLong: "37.647721, 25.058503",
+                    links: AttractionLinks(
+                        tripAdvisor: "https://www.tripadvisor.com/Attraction_Review-g4579811-d7856026-Reviews-Rochari_Beach-Panormos_Tinos_Cyclades_South_Aegean.html" // Replace with actual URL
+                    )
+                )
+,
+                        
+                Attraction(
+                    name: "Kionia",
+                    summary: "A beautiful coastal area known for its stunning beaches and ancient ruins.",
+                    longDescription: """
+                    Kionia is a picturesque location that offers breathtaking views of the Aegean Sea. Visitors can explore the ancient ruins, relax on the sandy beaches, and enjoy the serene atmosphere. It’s an ideal spot for both history enthusiasts and beach lovers.
+                    """,
+                    imageName: "kionia_image", // Replace with the actual image name
+                    latLong: "37.541123, 25.141234", // Replace with actual coordinates
+                    links: AttractionLinks(
+                        tripAdvisor: "https://www.tripadvisor.com/Attraction_Review-g1190267-d15017200-Reviews-Kionia_Beach-Kionia_Tinos_Cyclades_South_Aegean.html" // Replace with actual URL
+                    )
+                )
+,
+                        
+                Attraction(
+                    name: "Kalivia",
+                    summary: "A serene village known for its beautiful landscapes and traditional architecture.",
+                    longDescription: """
+                    Kalivia is a charming village located on the island of Tinos. It features stunning views and is surrounded by lush greenery, making it a great spot for nature lovers. The village's traditional Cycladic architecture adds to its charm, inviting visitors to explore its narrow streets and local shops.
+                    """,
+                    imageName: "41", // Keep the image name you provided
+                    latLong: "37.552622, 25.138584", // Keep the coordinates you provided
+                    links: AttractionLinks(
+                        tripAdvisor: "https://www.tripadvisor.com/Attraction_Review-g12903568-d12861581-Reviews-Kalyvia_Beach-Ormos_Kardianis_Tinos_Cyclades_South_Aegean.html" // Replace with actual URL
+                    )
+                )
+,
+                        
+                        
+                Attraction(
+                    name: "Lycnhaftia",
+                    summary: "A hidden gem known for its unique landscapes and tranquil atmosphere.",
+                    longDescription: """
+                    Lycnhaftia is a secluded area that offers visitors a peaceful retreat surrounded by nature. Its stunning landscapes and serene environment make it perfect for those looking to escape the hustle and bustle of city life. Explore the local flora and fauna, and enjoy the breathtaking views.
+                    """,
+                    imageName: "Lycnaftia", // Keep the image name you provided
+                    latLong: "37.547965, 25.222151", // Keep the coordinates you provided
+                    links: AttractionLinks(
+                        tripAdvisor: "https://www.tripadvisor.com/Attraction_Review-g2698784-d10961805-Reviews-Lichnaftia_Beach-Tinos_Town_Tinos_Cyclades_South_Aegean.html" // Replace with actual URL
+                    )
+                )
+,
+                        
+                Attraction(
+                    name: "Agios Ioannis Porto",
+                    summary: "A beautiful coastal area known for its crystal-clear waters and stunning views.",
+                    longDescription: """
+                    Agios Ioannis Porto is a serene beach destination ideal for relaxation and enjoying the natural beauty of Tinos. Visitors can take a dip in the inviting waters or unwind on the soft sands while soaking up the sun.
+                    """,
+                    imageName: "AgiosIoanisporto", // Keep the image name you provided
+                    latLong: "37.534569, 25.219271", // Keep the coordinates you provided
+                    links: AttractionLinks(
+                        tripAdvisor: "https://www.tripadvisor.com/Attraction_Review-g8445869-d17780896-Reviews-Agios_Ioannis_Porto_Paralia-Agios_Fokas_Tinos_Cyclades_South_Aegean.html" // Replace with actual URL
+                    )
+                )
+,
+                        
+                Attraction(
+                    name: "Agia Thalassa",
+                    summary: "A picturesque beach renowned for its tranquil waters and scenic surroundings.",
+                    longDescription: """
+                    Agia Thalassa is a hidden gem that offers visitors a peaceful retreat with its stunning views and crystal-clear waters. It's the perfect spot for swimming, sunbathing, or enjoying a quiet picnic by the sea.
+                    """,
+                    imageName: "agiathalassa",
+                    latLong: "37.66090512407765, 25.06091300328319",
+                    links: AttractionLinks(
+                        tripAdvisor: "https://www.tripadvisor.com/Attraction_Review-g12646471-d17577267-Reviews-Paralia_Agia_Thalassa-Ormos_Panormou_Tinos_Cyclades_South_Aegean.html" // Replace with actual URL
+                    )
+                )
+,
+                        
+                        
+                        
+                Attraction(
+                    name: "Isternia",
+                    summary: "A charming village known for its traditional architecture and stunning landscapes.",
+                    longDescription: """
+                    Isternia is a picturesque village nestled in the hills of Tinos, offering visitors a glimpse of authentic Greek island life. Its narrow streets, beautiful stone houses, and breathtaking views make it a perfect spot for exploration and relaxation.
+                    """,
+                    imageName: "Ysternia2",
+                    latLong: "37.621660, 25.052001",
+                    links: AttractionLinks(
+                        tripAdvisor: "https://www.tripadvisor.com/Tourism-g11908195-Isternia_Tinos_Cyclades_South_Aegean-Vacations.html" // Replace with actual URL
+                    )
+                )
+,
+                        
+                        
+                Attraction(
+                    name: "Agios Markos Kionia",
+                    summary: "A beautiful church known for its serene atmosphere and stunning views.",
+                    longDescription: """
+                    Agios Markos is a charming church located in Kionia, offering visitors a peaceful environment to reflect and enjoy the scenic surroundings. The architecture reflects traditional Greek styles, making it a lovely spot for photography and quiet contemplation.
+                    """,
+                    imageName: "agiosmarkos",
+                    latLong: "37.549725, 25.146955",
+                    links: AttractionLinks(
+                        tripAdvisor: "https://www.tripadvisor.com/Tourism-g1787699-Agios_Romanos_Tinos_Cyclades_South_Aegean-Vacations.html" // Replace with actual URL
+                    )
+                )
+,
+                Attraction(
+                    name: "Livada",
+                    summary: "A serene beach known for its tranquil waters and beautiful surroundings.",
+                    longDescription: """
+                    Livada is a picturesque beach that offers a peaceful escape for visitors. With its soft sands and clear waters, it's an ideal spot for relaxation and enjoying the natural beauty of Tinos. Whether you're looking to sunbathe or take a leisurely swim, Livada provides a perfect setting for a day of leisure.
+                    """,
+                    imageName: "Livada",
+                    latLong: "37.610012, 25.237018",
+                    links: AttractionLinks(
+                        tripAdvisor: "https://www.tripadvisor.com/Attraction_Review-g503711-d6873976-Reviews-Livada_Beach-Tinos_Cyclades_South_Aegean.html" // Replace with actual URL
+                    )
+                )
+
+     ,                   Attraction(
+        name: "Agios Sostis",
+        summary: "A beautiful beach known for its crystal-clear waters and stunning scenery.",
+        longDescription: """
+        Agios Sostis is a tranquil beach that captivates visitors with its natural beauty. The soft golden sands and the inviting azure waters create a perfect backdrop for relaxation and leisure activities. It's an ideal spot for swimming, sunbathing, or simply enjoying the serene atmosphere away from the crowds.
+        """,
+        imageName: "Agiossostis",
+        latLong: "37.530707, 25.208796",
+        links: AttractionLinks(
+            tripAdvisor: "https://www.tripadvisor.com/Tourism-g10350234-Agios_Sostis_Tinos_Cyclades_South_Aegean-Vacations.html" // Replace with actual URL
+        )
+    )
+,
+                        
+                Attraction(
+                    name: "Agios Romanos",
+                    summary: "A serene beach renowned for its golden sands and clear waters.",
+                    longDescription: """
+                    Agios Romanos is a picturesque beach that offers a perfect escape for those seeking tranquility and natural beauty. The beach is lined with soft sand and surrounded by lush landscapes, making it an ideal spot for sunbathing and swimming. It's a less crowded destination, allowing visitors to enjoy a peaceful day by the sea.
+                    """,
+                    imageName: "AgiosRomanos",
+                    latLong: "37.571996, 25.113730",
+                    links: AttractionLinks(
+                        tripAdvisor: "https://www.tripadvisor.com/Attraction_Review-g2698784-d10961812-Reviews-Agios_Romanos_Beach-Tinos_Town_Tinos_Cyclades_South_Aegean.html" // Replace with actual URL
+                    )
+                )
+,
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                Attraction(
+                    name: "Ormos Giannaki",
+                    summary: "A tranquil bay known for its crystal-clear waters and stunning scenery.",
+                    longDescription: """
+                    Ormos Giannaki is a beautiful and peaceful bay located on the island of Tinos. This hidden gem offers a serene environment perfect for swimming, snorkeling, and relaxing by the water. The surrounding cliffs and lush greenery enhance the natural beauty of the area, making it an ideal spot for those looking to escape the busyness of tourist hotspots.
+                    """,
+                    imageName: "OrmosGiannaki",
+                    latLong: "37.595499, 25.068309",
+                    links: AttractionLinks(
+                        tripAdvisor: "https://www.tripadvisor.com/Attraction_Review-g12903568-d14894586-Reviews-Giannaki_Beach-Ormos_Kardianis_Tinos_Cyclades_South_Aegean.html" // Replace with actual URL
+                    )
+                )
+,
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                
+                        
+                        
+                        
+                     ]),
+        City(name: "Villages of Tinos",
+                     summary: "Tinos has wonderful villages each one different from the other except the architecture of the houses.Also every village is spectacular in its own way.",
+                     imageName: "28",
+                     attractions: [
+                        Attraction(
+                            name: "Volax",
+                            summary: "The village of big rounder rocks",
+                            longDescription: """
+                            Built at an altitude of 284m, on a small plateau of the island, surrounded by large spherical rocks. How had the rocks been created? Was it a volcanic eruption, a battle of giants, or a meteor fall? The villagers are happy to tell you, and you'll find that the beauty of this settlement is breathtaking. Also, you can visit basket weavers and their workshops.
+                            """,
+                            imageName: "27",
+                            latLong: "37.5922065284904, 25.178031681787395",
+                            links: AttractionLinks(
+                                tripAdvisor: "https://www.tripadvisor.com/Restaurant_Review-g2698784-d6995655-Reviews-Taverna_Volax-Tinos_Town_Tinos_Cyclades_South_Aegean.html" // Replace with actual URL
+                            )
+                        )
+,
+                        
+                        Attraction(
+                            name: "Pyrgos Tinos",
+                            summary: "The Mecca of sculpting and painting.",
+                            longDescription: """
+                            Home of the renowned Halepas, Lytras, and Gaitis marblers and painters, Pyrgos took its name from the Venetian tower that was set in this area. Surrounded by mountains, it was built with the orientation to the internal part of the island for fear of the pirates. During the 18th and 19th century, it was at its greatest prime while at the same time the exploitation of white and green marble deposits of the area began. To this day, blazons, doorsteps, lintels, fountains, inscriptions, busts, alleys, curved tables, and much more are marble carved by local sculptors. Everyone should visit the Tinian Artists Museum as it houses creations of Halepas, Fillipotis, Doukas, Voulgaris, Koulouris, Vitalis (pelekitades of Panormos) as well as the newly founded Museum of Marble Crafts of the Piraeus Bank Group.
+                            """,
+                            imageName: "29",
+                            latLong: "37.6410729977748, 25.043519297768402",
+                            links: AttractionLinks(
+                                tripAdvisor: "https://www.tripadvisor.com.gr/ShowUserReviews-g503711-d7806392-r591500479-Sousouro_Cafe-Tinos_Cyclades_South_Aegean.html" // Replace with actual URL
+                            )
+                        )
+,
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        Attraction(
+                            name: "Panormos Tinos",
+                            summary: "The seaport of Pyrgos.",
+                            longDescription: """
+                            In the past, it used to be one of the biggest ports in Tinos, and the loading of marbles and quarries was taking place there. At the harbor, you can enjoy your time with coffee places and fishing taverns. To this day, alongside its beach Rohari, Panormos is the most significant holiday settlement in Tinos.
+                            """,
+                            imageName: "panormos1",
+                            latLong: "37.65261768997049, 25.05081490637589",
+                            links: AttractionLinks(
+                                tripAdvisor: "https://www.tripadvisor.com.gr/Tourism-g4579811-Panormos_Tinos_Cyclades_South_Aegean-Vacations.html" // Replace with actual URL
+                            )
+                        )
+,
+                        
+                        
+                        Attraction(
+                            name: "Kardiani",
+                            summary: "It has a magnificent view of Syros.",
+                            longDescription: """
+                            Built at an altitude of 240 m, Kardiani is embraced by thick vegetation and countless springs welling up clear fresh water from the mountain. Kardiani dates back to the geometrical era; in fact, there are 3000-year-old graves certified. It is proud of its paved alleys, the beautiful arcades, and the marble ornaments, which make the place even more impressive.
+                            """,
+                            imageName: "kardiani1",
+                            latLong: "37.60485643608999, 25.07568502746556",
+                            links: AttractionLinks(
+                                tripAdvisor: "https://www.tripadvisor.com.gr/Tourism-g11512886-Kardiani_Tinos_Cyclades_South_Aegean-Vacations.html" // Replace with actual URL
+                            )
+                        )
+,
+                        
+                        Attraction(
+                            name: "Isternia",
+                            summary: "The amphitheatrical marble sculptors' cradle.",
+                            longDescription: """
+                            If you wander in the inner part of the village, you will see marble-made alleys, elaborate lintels of the houses with the red and blue doors and windows, many fountains, busts, and sculptures. Marble prevails in Isternia, with local artists like Fytale, the Malakate brothers, and the Sohos brothers excelling in the art of the white rock.
+                            """,
+                            imageName: "28",
+                            latLong: "37.621959889787334, 25.053417300000017",
+                            links: AttractionLinks(
+                                tripAdvisor: "https://www.tripadvisor.com.gr/Tourism-g11908195-Isternia_Tinos_Cyclades_South_Aegean-Vacations.html" // Replace with actual URL
+                            )
+                        )
+,
+                        
+                        
+                        
+                        Attraction(
+                            name: "Loutra",
+                            summary: "The place with the abbeys of the Jesuit monks and Ursuline nuns after the destruction of the castle.",
+                            longDescription: """
+                            The convent of Ursulines was founded in 1862 by a nun of the Ursuline Order. It used to be a boarding school, an orphanage, a French-speaking high school, and a Greek school. Today it serves as a folklore museum where visitors can see embroidery, previous students' books, pianos, and other instruments. There is also the Jesuit Monastery where a folkloric museum operates, showcasing agricultural and other professional tools from the 19th and 20th centuries.
+                            """,
+                            imageName: "loutra1",
+                            latLong: "37.58587019258331, 25.16062100200948",
+                            links: AttractionLinks(
+                                tripAdvisor: "https://www.tripadvisor.com.gr/Tourism-g27999883-Loutra_Tinos_Cyclades_South_Aegean-Vacations.html" // Replace with actual URL
+                            )
+                        )
+,
+                        Attraction(
+                            name: "Xinara",
+                            summary: "The Catholic Archdiocese of Tinos is there.",
+                            longDescription: """
+                            The village is situated on the slope of Xombourgo, built among pines and palm trees. Particularly noteworthy are the Catholic churches: Our Lady Rose of Mary, which is the cathedral of the Catholic Archdiocese, and the Church of Apostles Peter and Paul, as well as the Bishop's Palace.
+                            """,
+                            imageName: "xinara1",
+                            latLong: "37.57623069294196, 25.163365242053153",
+                            links: AttractionLinks(
+                                tripAdvisor: "https://www.tripadvisor.com.gr/Search?q=τηνος+ξηναρα&geo=503711&ssrc=a&searchNearby=false&searchSessionId=001a532375a0bb7e.ssid&blockRedirect=true&offset=0" // Replace with actual URL
+                            )
+                        )
+,
+                        
+                        
+                        
+                        Attraction(
+                            name: "Dio Choria",
+                            summary: "Medieval settlement.",
+                            longDescription: """
+                            Dio Choria are the settlements once separated by a river, which later formed a beautiful village. The signs of the Middle Ages are profound here; it has an altitude of 450m and is considered, like others, a 'Balcony of Tinos'. It has a green and fertile hillside.
+                            """,
+                            imageName: "dyoxwria",
+                            latLong: "37.56168083532888, 25.196574280638348",
+                            links: AttractionLinks(
+                                tripAdvisor: "https://www.tripadvisor.com.gr/Restaurant_Review-g503711-d6778188-Reviews-Dio_Horia-Tinos_Cyclades_South_Aegean.html" // Replace with actual URL
+                            )
+                        )
+,Attraction(
+name: "Triantaros",
+summary: "The 'Balcony of Tinos'.",
+longDescription: """
+Triantaros is built amphitheatrically on the slope of Kechrovouni, with a marvelous view of Agios Fokas from an altitude of 500m. It features innumerable arches and narrow alleys. Among the architectural ornaments are the church of the Holy Apostles and the traditional oil mill in Lefkes.
+""",
+imageName: "triantaros2",
+latLong: "37.55993403327053, 25.19350102338367",
+links: AttractionLinks(
+tripAdvisor: "https://www.tripadvisor.com.gr/Tourism-g8450437-Triantaros_Tinos_Cyclades_South_Aegean-Vacations.html" // Replace with actual URL
+)
+)
+,
+                        
+                        
+                        Attraction(
+                            name: "Arnados",
+                            summary: "The purely mountainous village of Tinos.",
+                            longDescription: """
+                            Medieval arcades, traditional buildings, the fountain on the upper square, and the churches of Ascension and Agioi Anargyroi are the reasons why this settlement is worth a visit.
+                            """,
+                            imageName: "arnados2",
+                            latLong: "37.563000454198104, 25.18639246544706",
+                            links: AttractionLinks(
+                                tripAdvisor: "https://www.tripadvisor.com.gr/Tourism-g8632021-Arnados_Tinos_Cyclades_South_Aegean-Vacations.html" // Replace with actual URL
+                            )
+                        )
+,
+                        
+                        
+                        Attraction(
+                            name: "Falatados",
+                            summary: "Rakizio's place.",
+                            longDescription: """
+                            Falatados is an old village dating from 1400. Dimitris Vlassis' homeland, who was the first to face the miraculous Icon of Holy Mary in 1823. Here you will find houses of sketch, the first sketch museum in the greater region of the Southeast Mediterranean, founded by Mitropoulos brothers. If you come in September, a period of many feasts on the occasion of raki production, don't miss 'Rakizio', the great local festival.
+                            """,
+                            imageName: "falatados2",
+                            latLong: "48.860752239687095, 2.337686912770478",
+                            links: AttractionLinks(
+                                tripAdvisor: "https://www.tripadvisor.com.gr/Tourism-g13220712-Falatados_Tinos_Cyclades_South_Aegean-Vacations.html" // Replace with actual URL
+                            )
+                        )
+,
+                        
+                        
+                        
+                        Attraction(
+                            name: "Mountados",
+                            summary: "The settlement of arts.",
+                            longDescription: """
+                            Mountados is located at least 600 years in the western foothills of Kechrovounio, under the homonymous women's monastery, at an altitude of 300m. Mountados, which has been designated as a traditional settlement, is a picturesque village within a distance by car of 6 km from the capital of Tinos (Chora). Its visitors can be impressed by its Cycladic architecture, as it crosses its clean narrow twisted cobblestones and tiered streets, with its arches, old stone-built traditional houses, and its stone-covered fountain. Every summer there are musical events, speeches on topics of culture and history by remarkable speakers. Artists from all over the world take part in the 'Visual Wandering in Mountados,' and the guest star paints his work in some part of the village. Mountados also has its own website.
+                            """,
+                            imageName: "mountados2",
+                            latLong: "48.860752239687095, 2.337686912770478",
+                            links: AttractionLinks(
+                                tripAdvisor: "https://www.tripadvisor.com.gr/Tourism-g17754539-Mountados_Tinos_Cyclades_South_Aegean-Vacations.html" // Replace with actual URL
+                            )
+                        )
+,
+                        
+                        
+                        
+                        Attraction(
+                            name: "Tripotamos",
+                            summary: "Tripotamos will enchant you with its arches, steps, and medieval arcades.",
+                            longDescription: """
+                            We walk along the foot of Exombourgo, among three rivers, and you'll feel like going back to the medieval ages. In this village, you'll find the cheese diary of the island, where traditional cheese of Tinos is produced. You'll also find some pretty pottery workshops. Additionally, Sperados is a small adjoining settlement to Tripotamos with nice houses and old paths.
+                            """,
+                            imageName: "tripotamos",
+                            latLong: "37.56949426340737, 25.167228286436035",
+                            links: AttractionLinks(
+                                tripAdvisor: "https://www.tripadvisor.com.gr/Tourism-g26840067-Tripotamos_Tinos_Cyclades_South_Aegean-Vacations.html" // Replace with actual URL
+                            )
+                        )
+,
+                        
+                        
+                        
+                        
+                        Attraction(
+                            name: "Ktikados",
+                            summary: "One of the oldest settlements across the island.",
+                            longDescription: """
+                            The first impression of the village is the Catholic church Timios Stavros (Holy Cross) with its exquisite bell tower. Walking along the neat settlement, you'll encounter whitewashed traditional houses, with marble lintels and sculptural ornaments, typical Tinian arches, and the old fountain in the square of the Orthodox church of Megalomata.
+                            """,
+                            imageName: "ktikados1",
+                            latLong: "37.56698094774328, 25.154382451232216",
+                            links: AttractionLinks(
+                                tripAdvisor: "https://www.tripadvisor.com.gr/Tourism-g24185470-Ktikados_Tinos_Cyclades_South_Aegean-Vacations.html" // Replace with actual URL
+                            )
+                        )
+,
+                        
+                        
+                        
+                        Attraction(
+                            name: "Chatzirados",
+                            summary: "This settlement stands out for its picturesque beauty and magnificent view of the sea.",
+                            longDescription: """
+                            White houses with colorful flowery yards, paved alleys, a traditional coffee shop, and the old church of the Holy Trinity which dates back to the 15th century.
+                            """,
+                            imageName: "Chatzirados",
+                            latLong: "37.56962295541429, 25.150898232986517",
+                            links: AttractionLinks(
+                                tripAdvisor: "https://www.tripadvisor.com.gr/Tourism-g13220712-Falatados_Tinos_Cyclades_South_Aegean-Vacations.html" // Replace with actual URL
+                            )
+                        )
+,
+                        
+                        
+                        Attraction(
+                            name: "Karya",
+                            summary: "An important village during Venetian Domination.",
+                            longDescription: """
+                            Although underpopulated now, Karya has a lot to offer. A leafy village with old mansions and a beautiful square where you can enjoy traditional Greek coffee. You'll also come across a unique protected municipal parkland. Additionally, there is a museum of folk art and an active cultural association of the community.
+                            """,
+                            imageName: "karya",
+                            latLong: "37.57123767643638, 25.17959918450126",
+                            links: AttractionLinks(
+                                tripAdvisor: "https://www.tripadvisor.com.gr/Restaurant_Review-g2698784-d6946941-Reviews-Taverna_Karya-Tinos_Town_Tinos_Cyclades_South_Aegean.html" // Replace with actual URL
+                            )
+                        )
+,
+                        
+                        Attraction(
+                            name: "Venardados",
+                            summary: "Stone, wind, and a beautiful landscape.",
+                            longDescription: """
+                            Small picturesque village with white houses, whiteyard yards, and nice people. In the middle of the village dominates the church of Saint John the Theologian, which celebrates with festivals on May 8 and September 26. The village has a pigeon house built in 1843, dry stones that create stairs, and fields with threshing floors and, of course, olive trees, vines, etc.
+                            """,
+                            imageName: "venara",
+                            latLong: "37.6353692687135, 25.044996677941285",
+                            links: AttractionLinks(
+                                tripAdvisor: "https://www.tripadvisor.com.gr/Tourism-g16804133-Venardatos_Tinos_Cyclades_South_Aegean-Vacations.html" // Replace with actual URL
+                            )
+                        )
+,
+                        
+                        Attraction(
+                            name: "Marlas",
+                            summary: "Built on a hill, seems like it's staring at Pyrgos.",
+                            longDescription: """
+                            Among the natural beauty, the church Agioi Anargyroi stands out with the artistic marble decoration. It has the Asclepius symbol, which is unique in Greece with the cross and the snake around it.
+                            """,
+                            imageName: "marlas2",
+                            latLong: "37.6524431689378, 25.0193942067942",
+                            links: AttractionLinks(
+                                tripAdvisor: "https://www.tripadvisor.com.gr/Tourism-g23965518-Marlas_Tinos_Cyclades_South_Aegean-Vacations.html" // Replace with actual URL
+                            )
+                        ),
+                        
+
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                     ]),
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        City(name: "Tinos by night",
+                     summary: "Chora doesn't lose by entertainment.",
+                     imageName: "25",
+                     attractions: [
+                        Attraction(
+                            name: "Chora Tinos",
+                            summary: "The island's main night entertainment is here.",
+                            longDescription: """
+                            Bars sprout up in the alleys, clubs with quality sounds and live shows entertain visitors until morning. Ambient cafes satisfy even the most demanding guests. While wandering in the alleys, visitors will discover cobblestone paths, traditional houses, jasmine bushes, and the well-known Evangellistria Street, a street full of shops where you can buy souvenirs, clothes, jewelry, and local products. Along the port, there are plenty of cafes, taverns, bakeries, pastry shops, and more.
+                            """,
+                            imageName: "25",
+                            latLong: "37.5377817708772, 25.16028798394543",
+                            links: AttractionLinks(
+                                tripAdvisor: "https://www.tripadvisor.com.gr/Tourism-g2698784-Tinos_Town_Tinos_Cyclades_South_Aegean-Vacations.html" // Replace with actual URL)
+                                
+                                
+                                
+                                
+                                
+                                )),
+                        
+                        
+                        
+                        
+                        
+                        Attraction(
+                            name: "Chora Tinos",
+                            summary: "The island's main night entertainment is here.",
+                            longDescription: """
+                            Bars sprout up in the alleys, clubs with quality sounds and live shows entertain visitors until morning. Ambient cafes satisfy even the most demanding guests. While wandering in the alleys, visitors will discover cobblestone paths, traditional houses, jasmine bushes, and the well-known Evangellistria Street, a street full of shops where you can buy souvenirs, clothes, jewelry, and local products. Along the port, there are plenty of cafes, taverns, bakeries, pastry shops, and more.
+                            """,
+                            imageName: "25",
+                            latLong: "37.5377817708772, 25.16028798394543",
+                            links: AttractionLinks(
+                                tripAdvisor: "https://www.tripadvisor.com.gr/Tourism-g2698784-Tinos_Town_Tinos_Cyclades_South_Aegean-Vacations.html" // Replace with actual URL)
+                                )),
+        
+        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+        
+        
+]),
+    
+        
+        
+        City(name: "Restaurants",
+                     summary: "Chora doesn't lose by entertainment.",
+                     imageName: "25",
+                     attractions: [
+                        Attraction(
+                            name: "Chora Tinos",
+                            summary: "The island's main night entertainment is here.",
+                            longDescription: """
+                            Bars sprout up in the alleys, clubs with quality sounds and live shows entertain visitors until morning. Ambient cafes satisfy even the most demanding guests. While wandering in the alleys, visitors will discover cobblestone paths, traditional houses, jasmine bushes, and the well-known Evangellistria Street, a street full of shops where you can buy souvenirs, clothes, jewelry, and local products. Along the port, there are plenty of cafes, taverns, bakeries, pastry shops, and more.
+                            """,
+                            imageName: "25",
+                            latLong: "37.5377817708772, 25.16028798394543",
+                            links: AttractionLinks(
+                                tripAdvisor: "https://www.tripadvisor.com.gr/Tourism-g2698784-Tinos_Town_Tinos_Cyclades_South_Aegean-Vacations.html" // Replace with actual URL
+                            )
+                                   )
+                               ]
+             
+                           ),
+        
+        
+
